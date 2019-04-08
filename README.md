@@ -1,4 +1,4 @@
-[![Binder](https://conp7.calculquebec.cloud/badge_logo.svg)](https://conp7.calculquebec.cloud/v2/gh/ltetrel/vcog_hps_ad_book/master?filepath=%2Fvcog_hpc_prediction_simulated_data.ipynb)  
+[![Binder](https://conp7.calculquebec.cloud/badge_logo.svg)](https://conp7.calculquebec.cloud/v2/gh/SIMEXP/vcog_hps_ad_book/master?filepath=%2Fvcog_hpc_prediction_simulated_data.ipynb)  
 
 # vcog_hps_ad
 
