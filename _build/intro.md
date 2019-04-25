@@ -5,7 +5,7 @@ prev_page:
   title: ''
 next_page:
   url: /01/vcog_hpc_prediction_simulated_data
-  title: 'Simulating signature of alzheimer disease'
+  title: 'Simulating signature of alzheimer'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Signature of Alzheimer disease
