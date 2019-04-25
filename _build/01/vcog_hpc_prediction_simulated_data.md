@@ -3,7 +3,7 @@ redirect_from:
   - "/01/vcog-hpc-prediction-simulated-data"
 interact_link: content/01/vcog_hpc_prediction_simulated_data.ipynb
 kernel_name: python3
-title: 'vcog-book'
+title: 'Signature of Alzheimer'
 prev_page:
   url: /intro
   title: 'Home'

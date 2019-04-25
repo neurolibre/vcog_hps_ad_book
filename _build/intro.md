@@ -5,10 +5,10 @@ prev_page:
   title: ''
 next_page:
   url: /01/vcog_hpc_prediction_simulated_data
-  title: 'Simulating signature of alzheimer'
+  title: 'Signature of Alzheimer'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-# Signature of Alzheimer disease
+# Signature of Alzheimer disease 
 
 This work includes packages, scripts, and notebooks for the following article [A signature of cognitive deficits and brain atrophy that is highly predictive of progression to Alzheimer’s dementia](https://doi.org/10.1101/352344).
 
