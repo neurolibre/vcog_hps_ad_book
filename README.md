@@ -1,6 +1,6 @@
-[![Binder](https://conp7.calculquebec.cloud/badge_logo.svg)](https://conp7.calculquebec.cloud/v2/gh/SIMEXP/vcog_hps_ad_book/master?filepath=content%2F01%2Fvcog_hpc_prediction_simulated_data.ipynb)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SIMEXP/vcog_hps_ad_book/master?filepath=content%2F01%2Fvcog_hpc_prediction_simulated_data.ipynb)  
 
-# vcog_hps_ad
+# Signature of Alzheimer disease
 
 This repository contains packages, scripts, and notebooks for the following article [A signature of cognitive deficits and brain atrophy that is highly predictive of progression to Alzheimer’s dementia](https://doi.org/10.1101/352344).
 
